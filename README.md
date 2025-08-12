@@ -12,6 +12,7 @@ I'm a Master’s student in Computer Science at Wilfrid Laurier University, pass
 ## 📚 Education
 
 🎓 M.Sc. in Computer Science, Wilfrid Laurier University (2025 – Present)
+
 🎓 B.Sc. in Computer Science, Amirkabir University of Technology (Tehran Polytechnic) (2019 – 2024)
 
 ## 🚀 Skills
