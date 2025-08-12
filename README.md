@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Saya
 
-I'm a computer science student at Amirkabir University (Tehran Polytechnic) with a passion for deep learning. Currently, I'm working at the Computational Biology Research Center (CBRC), where I'm excited to contribute to cutting-edge projects that bridge the gap between computer science and life sciences.
+I'm a Master’s student in Computer Science at Wilfrid Laurier University, passionate about machine learning, pathology image analysis, and generative AI. I enjoy working at the intersection of computer science and life sciences, with experience spanning deep learning, representation learning, and LLM-based workflows.
 
 ## 🌱 Interests
 
@@ -11,7 +11,8 @@ I'm a computer science student at Amirkabir University (Tehran Polytechnic) with
   
 ## 📚 Education
 
-- 🎓 Graduate in Computer Science at Amirkabir University
+🎓 M.Sc. in Computer Science, Wilfrid Laurier University (2025 – Present)
+🎓 B.Sc. in Computer Science, Amirkabir University of Technology (Tehran Polytechnic) (2019 – 2024)
 
 ## 🚀 Skills
 
